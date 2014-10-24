@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MetroSample_morinaga</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="access_token">58250a5527fdefd0b29be6d7c7709c03602ec8718e0e1cbd6b355eef2b5e9939</string>
+    <string name="endpoint">api.tokyometroapp.jp/api/v2</string>
+    <string name="data_search">datapoints</string>
+    <string name="data_get">datapoints/DATA_URI</string>
+    <string name="chibutsu_search">places</string>
+    <string name="chibutsu_get">places/DATA_URI</string>
+
+</resources>
